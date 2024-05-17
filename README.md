@@ -1,6 +1,8 @@
-README 
 
-TESTING FOR FAIRNESS IN FINANCIAL LLMS
+
+                                          TESTING FOR FAIRNESS IN FINANCIAL LLMS
+
+                                          STEP 1
 
 1.We started by cloning the Mutaint Repo from https://github.com/Anonymous1925/MutaInT/tree/main/Mutaint_tool_usage
 
@@ -42,4 +44,10 @@ abiramistep11.py : For intersectional mutation, runtime was aproximately 48h on 
 
 
 
-6. Then you can open the project in pycharm to reproduce the experiment, by running the files abiramistep1.py and abiramistep11.py 
+6. Then you can open the project in pycharm to reproduce the experiment, by running the files abiramistep1.py and abiramistep11.py
+
+                                             STEP 2
+
+1. We created a google colab notebook, by following the examples at https://huggingface.co/blog/4bit-transformers-bitsandbytes](https://colab.research.google.com/drive/1ge2F1QSK8Q7h0hn3YKuBCOAS0bK8E0wf?usp=sharing)
+2. But as of this morning, it stopped working; certain problems with bits and bytes(maybe updates)
+
