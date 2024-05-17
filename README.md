@@ -10,13 +10,21 @@ Which we openned using the Pycharm IDE.
 Note that after downloading the datasets, it was renamed accordingly just for convenience and easy recognition.
 
 ACL18 ---→https://huggingface.co/datasets/TheFinAI/flare-sm-acl/tree/main/data
+
 BigData22---→https://huggingface.co/datasets/TheFinAI/flare-sm-bigdata/tree/main
+
 CIKM18 ---→https://huggingface.co/datasets/TheFinAI/flare-sm-cikm/tree/main/data
+
 ConvFinQA ---→https://huggingface.co/datasets/TheFinAI/flare-convfinqa/tree/main/data
+
 FinQA ---→https://huggingface.co/datasets/TheFinAI/flare-finqa/tree/main/data
+
 FiQA-SA ---→https://huggingface.co/datasets/TheFinAI/en-fpb/tree/main/data
+
 FPB ---→https://huggingface.co/datasets/TheFinAI/en-fpb/tree/main/data
+
 Headline ---→https://huggingface.co/datasets/TheFinAI/flare-headlines/tree/main/data
+
 NER ---→https://huggingface.co/datasets/TheFinAI/flare-ner/tree/main/data
 
 3. We created 2 python files in the MutaInt project from our Pycharm IDE
