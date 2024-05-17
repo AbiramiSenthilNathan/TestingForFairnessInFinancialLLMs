@@ -31,8 +31,13 @@ NER ---→https://huggingface.co/datasets/TheFinAI/flare-ner/tree/main/data
 abiramistep1.py : For atomic mutation, runtime was aproximately 12h on a 16GB icore 5 intel laptop
 abiramistep11.py : For intersectional mutation, runtime was aproximately 48h on a 16GB icore 5 intel laptop
 
-4. Here is the google drive link to download the project to reproduce the experiment: 
+4. Here is the google drive link to download the project to reproduce the experiment:
+   MutaInt(Open with Pycharm) ->
+   
+   AtomicMutationResults ->
+   
+   IntersectionalMutationResults -> 
 
 
 
-5. Then you can open the project in pycharm to reproduce the experiment, by running the files abiramistep1.py and abiramistep11.py 
+6. Then you can open the project in pycharm to reproduce the experiment, by running the files abiramistep1.py and abiramistep11.py 
