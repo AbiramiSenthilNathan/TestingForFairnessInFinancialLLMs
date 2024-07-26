@@ -50,4 +50,5 @@ abiramistep11.py : For intersectional mutation, runtime was aproximately 48h on 
 
 1. We created a google colab notebook, by following the examples at [https://huggingface.co/blog/4bit-transformers-bitsandbytes](https://colab.research.google.com/drive/1ge2F1QSK8Q7h0hn3YKuBCOAS0bK8E0wf?usp=sharing)](https://colab.research.google.com/drive/1ge2F1QSK8Q7h0hn3YKuBCOAS0bK8E0wf?usp=sharing)
 
-
+2. Here is the link to our google colab notebook: https://colab.research.google.com/drive/1WH89o8cDbk9kXpK5nqAM7X5qgwEeeodI?usp=sharing
+3. 
